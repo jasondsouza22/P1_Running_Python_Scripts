@@ -32,7 +32,6 @@ print("Process Completed")
 
 
 
-
 Clubs = ["Manchester United", "Chelsea","Arsenal","Newcastle"]
 for club in Clubs:
     print(club)
